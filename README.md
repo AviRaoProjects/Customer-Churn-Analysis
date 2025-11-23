@@ -1,4 +1,4 @@
-Customer Churn Analysis using Python (EDA Project)
+# Customer Churn Analysis using Python (EDA Project)
 
 ## Overview  
 This project analyzes telecom customer churn to understand why customers leave a service, and what patterns or behaviors contribute to their decision. Using Python-based Exploratory Data Analysis (EDA), this project identifies the key factors that influence churn—such as contract type, tenure, monthly charges, and payment methods.
